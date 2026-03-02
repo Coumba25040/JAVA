@@ -2,8 +2,6 @@
 
 Un petit projet Java permettant de gérer une liste de contacts directement depuis le terminal. Ce programme permet d'ajouter, d'afficher, de rechercher et de supprimer des contacts, tout en sauvegardant les données dans un fichier texte.
 
----
-
 ## Fonctionnalités principales
 
 * **Ajout de contacts** : Enregistrez un nom et un numéro de téléphone.
