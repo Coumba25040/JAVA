@@ -1,4 +1,4 @@
-//L'objectif de cet exercice est de créer un programme qui demande à l'utilisateur un nombres et afficher si le nombre est pair ou impair, et compte le nombre de nombres impairs.
+//L'objectif de cet exercice est de créer un programme qui demande à l'utilisateur un nombres et afficher si le nombre est pair ou impair.
 
 
 import java.util.Scanner;
